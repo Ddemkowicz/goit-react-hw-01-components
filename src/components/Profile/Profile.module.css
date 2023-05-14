@@ -1,8 +1,6 @@
 .profile {
   display: block;
-  background-color: rgb(177, 177, 177);
-  width: 80%;
-  height: 80%;
+
   padding: 40px;
   justify-content: center;
   align-items: center;
@@ -12,7 +10,7 @@
 .description {
   position: relative;
   background-color: white;
-  width: 50%;
+  width: 420px;
   height: 420px;
   margin: auto;
   border-radius: 5px;
